@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             if (bottomSheet) {
                 bottomSheet.outerHTML = `<div class="BottomSheet__window-wrap shared  BottomSheet__draggable react-draggable-dragged" style="height: auto; max-height: 60vh; transform: translate(0px, 0px); transition: transform 0.3s ease-in-out;"><div class="BottomSheet__drag-indicator-wrap shared "><div class="BottomSheet__drag-indicator shared "></div></div><div class="BottomSheet__window shared "><div class="vXej4kRO"><div><div class="ylJaKNG_"><form class="FLrxlehu" data-gtm-form-interact-id="1"><h3 class="_fNd2mrq" style="margin-bottom: 25px;">Получена награда</h3><div class="omJ936GU">
-<div class="gift_photo"><img src="photo_2025-04-05_14-05-17.jpg" style="display: block; margin: 0 auto; margin-bottom: 20px; border-radius: 8px; width: 80%;"></div>
+<div class="gift_photo"><img src="photo_2025-04-05_14-05-17.png" style="display: block; margin: 0 auto; margin-bottom: 20px; border-radius: 8px; width: 80%;"></div>
 </div><button type="button" class="KLxcdBFJ zAO5mILb g6lahFkA ecP4s7L7" tabindex="0">ВВЕСТИ ЕЩË</button></form></div></div></div></div></div>`;
 
                 const retryButton = document.querySelector('button.KLxcdBFJ.zAO5mILb.g6lahFkA.ecP4s7L7');
